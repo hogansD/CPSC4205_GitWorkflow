@@ -1,3 +1,8 @@
+/**
+ * Student Information Card
+ * This program displays a formatted profile card with student details
+ * including name, major, graduation year, email, hometown, and favorite hobby
+ */
 
 public class StudentInfo {
     public static void main(String[] args) {
