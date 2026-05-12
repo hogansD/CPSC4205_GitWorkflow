@@ -11,6 +11,10 @@ public class StudentInfo {
         System.out.println("==========================================");
         System.out.println("       STUDENT INFORMATION CARD");
         System.out.println("==========================================");
+        System.out.println();
+
+        System.out.println("STUDENT PROFILE");
+        System.out.println("==========================================");
         System.out.println("Name: " + name);
         System.out.println("Major: " + major);
         System.out.println("Graduation Year: " + graduationYear);
