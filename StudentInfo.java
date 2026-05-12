@@ -6,6 +6,7 @@ public class StudentInfo {
         int graduationYear = 2025;
         String email = "hogans_diamond@colstate.view.usg.edu";
         String hometown = "Atlanta, Georgia";
+        String favoriteHobby = "Cooking";
 
         System.out.println("==========================================");
         System.out.println("       STUDENT INFORMATION CARD");
@@ -15,6 +16,7 @@ public class StudentInfo {
         System.out.println("Graduation Year: " + graduationYear);
         System.out.println("Email: " + email);
         System.out.println("Hometown: " + hometown);
+        System.out.println("Favorite Hobby: " + favoriteHobby);
         System.out.println("==========================================");
     }
 }
